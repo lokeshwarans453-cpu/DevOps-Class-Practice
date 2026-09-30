@@ -1,0 +1,142 @@
+docker ps
+history
+docker network ls
+docker network create sjc-demonet
+docker network ls
+docker prune
+docker netowrk ls
+docker ps -a
+docker images
+docker network ls
+docker network create sjc-demonet
+docker network ls
+docker system prune -a
+docker ps -a
+docker ps\
+docker ps
+docker images -a
+docker system prune -a --volumes
+docker volume ls
+docker network ls
+docker compose ls
+docker network ls
+docker network create sjc-demonet
+docker network ls
+docker ps -a
+docker images
+docker run -d --name demo -p 8081:80 --network=sjc-demonet customing
+docker build -t customering:latest
+docker build -t customering:latest .
+ls
+cat dockerfile
+cat dockerfile.txt
+cat dockerfile.txt.txt
+python --version
+docker --version
+docker ps
+docker compose version
+cd "C:\Users\Nivetha\OneDrive\Desktop\django-backend"
+Get-ChildItem -Name
+docker --version
+docker ps
+docker build -t django-backend
+docker build -t django-backend .
+docker images
+docker run -d -p 8000:8000 --name django-backend-container django-backend
+docker ps
+docker logs django-backend-container
+docker ps
+docker logs django-backend-container
+docker images
+docker ps -a
+git --version
+notepad .gitignore
+git init
+git status
+git add .
+git status
+git commit -m "Initial Django backend with Docker"
+git remote add origin https://github.com/lokeshwarans453-cpu/DevOps-Class-Practice.git
+git remote -v
+git clone https://github.com/lokeshwarans453-cpu/DevOps-Class-Practice.git
+Get-ChildItem "DevOps-Class-Practice"
+Get-ChildItem "DevOps-Class-Practice\Django Project Task"
+Get-ChildItem "DevOps-Class-Practice"
+Get-ChildItem "DevOps-Class-Practice\Django Project Task"
+git clone https://github.com/lokeshwarans453-cpu/DevOps-Class-Practice.git
+Django Project Task
+Day 02
+Day1
+Day3
+Get-ChildItem ".\DevOps-Class-Practice"
+Get-ChildItem ".\DevOps-Class-Practice\Django Project Task"
+Copy-Item -Path ".\django-backend\*" -Destination ".\DevOps-Class-Practice\Django Project Task" -Recurse -Force
+cd..
+Copy-Item -Path ".\django-backend\*" -Destination ".\DevOps-Class-Practice\Django Project Task" -Recurse -Force
+git remote add origin https://github.com/lokeshwarans453-cpu/DevOps-Class-Practice.git
+git push -u origin master
+cd "C:\Users\Nivetha\OneDrive\Desktop\django-backend"
+git branch
+git remote -v
+git push -u origin master
+git pull origin master --allow-unrelated-histories
+git push -u origin master
+cd "C:\Users\Nivetha\OneDrive\Desktop\django-backend"
+git status
+git remote -v
+git remote set-url origin https://github.com/lokeshwarans453-cpu/Django-backend-project.git
+git remote -v
+git push -u origin master
+notepad docker-compose
+notepad docker-compose
+cd "C:\Users\Nivetha\OneDrive\Desktop"
+notepad docker-compose
+rename docker-compose.txt docker-compose.yaml
+docker compose --version
+docker compose version
+cat docker-compose.yaml
+cd C:\Users\Nivetha\OneDrive\Desktop
+docker compose version
+cat docker-compose.yaml
+docker ps
+docker ps -a
+docker compose up
+java --version
+winget install EclipseAdoptium.Temurin.25.JDK
+java --version
+javac --version
+docker ps
+docker compose up
+docker ps -a
+docker compose up
+cd C:\Users\Nivetha\OneDrive\Desktop
+docker compose up
+docker compose down
+docker ps -a
+cd frontend
+ls
+notepad index.html
+ls
+explorer.
+explorer .
+ls
+clear
+ls
+docker compose up
+docker ps -a
+docker compose up
+docker compose down
+docker compose up
+docker compose down
+docker compose up
+cd
+cd c:\Users\Nivetha\OneDrive\Desktop
+docker compose up
+docker compose down
+docker compose up
+docker compose down
+docker compose up -d
+history
+Get-History
+Get-Content (Get-PSReadLineOption).HistorySavePath
+PS C:\WINDOWS\System32>
