@@ -1,0 +1,52 @@
+PS C:\Users\Nivetha\OneDrive\Desktop> history
+
+  Id CommandLine
+  -- -----------
+   1 minikube version
+   2 minkube start
+   3 minikube start
+   4 minikube kubectl -- get pods -A\
+   5 minikube kubectl -- get pods -A
+   6 minikube kubectl -- run apachepod --image=httpd
+   7 minikube kubectl -- get pods
+   8 minikube kubectl -- describe pod apachepod
+   9 minikube kubectl -- logs apachepod
+  10 minikube kubectl -- exec -it apachepod -- /bin/bash
+  11 minikube kubectl -- delete pod apachepod
+  12 minikube kubectl -- get pods
+  13 minikube kubectl -- run apachepod --image=httpd
+  14 minikube kubectl -- get pods
+  15 minikube kubectl -- delete pod apachepod
+  16 minikube kubectl -- logs apachepod
+  17 minikube kubectl -- delete pod apachepod
+  18 minikube kubectl -- apply -f simplepod.yaml
+  19 notepad simplepod.yaml
+  20 notepad simplepod.yaml
+  21 notepad simplepod.yaml
+  22 cd C:\Users\Nivetha\OneDrive\Desktop
+  23 notepad simplepod.yaml
+  24 minikube kubectl -- apply -f simplepod.yaml
+  25 minikube kubectl -- get pods
+  26 minikube kubectl -- delete -f simplepod.yaml
+  27 histroy
+
+
+PS C:\Users\Nivetha\OneDrive\Desktop>
+
+
+PS C:\Users\Nivetha> history
+
+  Id CommandLine
+  -- -----------
+   1 histroy
+   2 history
+   3 minikube kubectl -- create deployment nginxdeploy --image=nginx:1.30
+   4 minikube kubectl -- get deploy
+   5 minikube kubectl -- delete deployment demodeploy --image=python:3.10
+   6 minikube kubectl -- scale deployment nginxdeploy --replica=5
+   7 minikube kubectl -- scale deployment nginxdeploy --replicas=5
+   8 minikube kubectl -- get deploy
+   9 minikube kubectl -- get deploy -A
+
+
+PS C:\Users\Nivetha>
